@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - enroll@localhost" uuid="95625d14-c4eb-4092-9a22-3f821c022c11">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>enroll.*</schema-pattern>
+      <default-schemas>enroll.*</default-schemas>
+    </data-source>
+  </component>
+</project>

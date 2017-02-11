@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="c3p0-0.9.1.2">
+    <archive path="/Users/minute/IdeaProjects/LabPure/lib/c3p0-0.9.1.2.jar" />
+    <archive path="/Users/minute/IdeaProjects/LabPure/lib/mysql-connector-java-5.1.25-bin.jar" />
+  </library>
+  <library name="commons-beanutils-1.9">
+    <archive path="/Users/minute/IdeaProjects/LabPure/lib/commons-beanutils-1.9.3/commons-beanutils-1.9.3.jar" />
+    <archive path="/Users/minute/IdeaProjects/LabPure/lib/commons-beanutils-1.9.3/commons-beanutils-1.9.3-tests.jar" />
+    <archive path="/Users/minute/IdeaProjects/LabPure/lib/commons-beanutils-1.9.3/commons-beanutils-1.9.3-javadoc.jar" />
+    <archive path="/Users/minute/IdeaProjects/LabPure/lib/commons-beanutils-1.9.3/commons-beanutils-1.9.3-sources.jar" />
+    <archive path="/Users/minute/IdeaProjects/LabPure/lib/commons-beanutils-1.9.3/commons-beanutils-1.9.3-test-sources.jar" />
+  </library>
+  <library name="guava-21.0">
+    <archive path="/Users/minute/IdeaProjects/LabPure/lib/guava-21.0.jar" />
+  </library>
+</eclipse-userlibraries>
+

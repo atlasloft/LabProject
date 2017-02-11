@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/LabPure"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="c3p0-0.9.1.2" value="project"/>
+		<level name="commons-beanutils-1.9" value="project"/>
+		<level name="guava-21.0" value="project"/>
+	</levels>
+</component>
